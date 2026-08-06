@@ -1,0 +1,4 @@
+interface:
+  display_name: "DG Question Type Setter"
+  short_description: "Review and label DG platform question types"
+  default_prompt: "Use $dg-question-type-setter to review and label question types in this DG draft."

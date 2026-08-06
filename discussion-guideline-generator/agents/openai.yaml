@@ -1,0 +1,4 @@
+interface:
+  display_name: "Discussion Guideline Generator"
+  short_description: "Design DG research logic and question drafts"
+  default_prompt: "Use $discussion-guideline-generator to design a Digital Diary guideline from my project materials."

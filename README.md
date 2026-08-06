@@ -148,13 +148,14 @@ discussion-guideline-generator/
 │   ├── agents/
 │   │   └── openai.yaml
 │   ├── assets/
-│   │   └── dg-output-template.docx
+│   │   └── dg-output-template.docx  # 由维护者提供的唯一强制 Word 模板
 │   └── references/
 │       ├── agent-workflow.md
 │       ├── generation-logic.md
 │       ├── research-rules.md
 │       ├── research-design-ai-agent-rules.md
 │       ├── eval-rubric.md
+│       ├── data-contracts.md
 │       └── case-cards/
 ├── dg-question-wording-editor/
 │   ├── SKILL.md
