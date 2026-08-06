@@ -825,3 +825,57 @@ In Wording Handoff, mark:
 - which future/ideal product questions need bounded wording;
 - where photos/references are important for evaluation standards or product form;
 - whether stimulus/concept/price testing is included or should be left to IDI.
+
+---
+
+## 25. Online Accompanied Immersion Pattern: Beverage and Coffee
+
+When a Proposal specifies online accompanied immersion or a week-long consumer diary, preserve the source method before adding generic modules.
+
+### Step A: identify the method contract
+
+Extract and preserve:
+
+- number of diary days and whether both weekdays and weekends must be covered;
+- whether total beverage behavior or coffee-only behavior is the root observation space;
+- whether diary evidence will feed subsequent IDIs;
+- whether real-time researcher interaction is part of fieldwork operations;
+- the required role of city tier, life stage, life pace, and coffee usage level.
+
+### Step B: design one root diary with conditional depth
+
+For beverage-to-coffee studies, write one total-beverage diary first. Its answer path should be:
+
+```text
+real drinking/eating moment
+-> need and context
+-> chosen beverage and why
+-> preparation/pairing/acquisition when relevant
+-> before/after result
+-> coffee branch if coffee appeared
+-> substitute branch if coffee was relevant but absent
+```
+
+Do not default to a separate mandatory daily coffee diary. Add it only if the Proposal requires all coffee occasions to be logged independently and the respondent burden is acceptable.
+
+### Step C: split coffee journey before drafting questions
+
+Use two linked but distinct sections:
+
+- `Coffee I Know`: earliest impressions, formats/types/brands/flavours learned, information sources, changing mental model, and relational/metaphor understanding where useful.
+- `Coffee I Drink`: first cup, taste adaptation, habit building, interruption, increase/decrease, format expansion, brand switching, trading up/down, and occasion shifts.
+
+Do not replace either section with a generic target-brand impression question.
+
+### Step D: map channels by role
+
+Design separate observation points for:
+
+- information/seeded channels: people, creators, platforms, stores, events, and content that prompt attention, trial, or trust;
+- purchase channels: channel selected by coffee format, stocking cadence, access, price/promotion, convenience, barriers, and channel loss consequences.
+
+Invite order screenshots or purchase records only as optional supporting material unless a project/platform requirement makes them mandatory.
+
+### Step E: control brand scope
+
+If the client brand is named but brand equity is not a formal research objective, keep the detailed DG category-led. Any brand-specific probe must be late, explicitly justified, and unable to displace core beverage, format, journey, or channel observation points.

@@ -59,6 +59,7 @@ Then select relevant case cards only when useful:
 - `references/case-cards/case-002-chocolate.md`: chocolate / snacking / emotional demand spaces / daily frequency growth.
 - `references/case-cards/case-003-wonton.md`: continuous listening / repeat wave / existing sample logic.
 - `references/case-cards/case-004-45plus-health.md`: 45+ / health / VMS / trust and category expansion.
+- `references/case-cards/case-005-coffee-online-immersion.md`: coffee / beverage mapping / one-week accompanied immersion / coffee journey and channel roles.
 
 Use case cards for design logic only. Do not copy case questions mechanically.
 

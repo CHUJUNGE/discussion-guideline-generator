@@ -1,8 +1,8 @@
 {
-  "skill_version": "0.3.0",
-  "generation_logic_version": "0.2.7",
-  "research_rules_version": "0.2.7",
-  "case_library_version": "0.1.0",
+  "skill_version": "0.3.1",
+  "generation_logic_version": "0.2.8",
+  "research_rules_version": "0.2.8",
+  "case_library_version": "0.1.1",
   "fixed_template_version": "0.1.0",
   "eval_rubric_version": "0.1.2",
   "data_contracts_version": "0.1.0",
@@ -21,6 +21,7 @@
     "0.2.6 adds the single-point question rule: each respondent-facing question should ask one core information point, with only same-point follow-ups allowed.",
     "0.2.7 adds research_design_ai_agent_rules.md distilled from researcher-authored Word guidance and requires those rules to be injected without truncation.",
     "0.2.8 preserves repeated check-in event/frequency/unit details and mandatory image/video intent in designer output and wording handoff so dg-question-type-setter can label 打卡题 and 必填图片 / 必填视频 accurately.",
-    "0.3.0 removes the external API prompt-builder dependency and coordinates with dg-question-wording-editor and dg-question-type-setter in Codex."
+    "0.3.0 removes the external API prompt-builder dependency and coordinates with dg-question-wording-editor and dg-question-type-setter in Codex.",
+    "0.3.1 adds Case_005 and reusable online-accompanied-immersion rules for total beverage mapping, conditional coffee diary depth, coffee knowledge versus drinking journeys, channel roles, and brand-scope control."
   ]
 }

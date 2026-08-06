@@ -803,3 +803,16 @@ Before finalizing a product innovation DG, check:
 - Did purchase-related projects cover habits, budget, channels, favorite/most-used/latest examples, and consumption changes?
 - Did it avoid unbounded "future product" imagination?
 - Did it distinguish disruptive innovation from safe/stable incremental innovation?
+
+## 25. Online Accompanied Immersion: Total Beverage to Coffee Logic
+
+Use this rule only when the Proposal explicitly calls for online accompanied immersion, one-week life recording, coffee journey work, or beverage-to-coffee substitution mapping.
+
+- Build the respondent's total beverage system before narrowing to coffee. Coffee's value must be interpreted against adjacent beverages and real substitutes.
+- For a one-week diary, use one primary beverage/diet record. Add a coffee-specific branch when coffee appears, rather than creating two independent mandatory diary streams by default.
+- The coffee branch should preserve format, product/brand when relevant, preparation, pairing, acquisition channel, expected role, actual result, and whether another beverage could have met the need.
+- Ask about coffee-relevant moments in which coffee did not appear: what blocked it and what became the substitute.
+- Keep a clear split between `Coffee I Know` and `Coffee I Drink`: knowledge/mental-model expansion is different from actual drinking, adaptation, switching, upgrading/downgrading, or decline.
+- Treat information channels and purchase channels as different systems. The first explains discovery and trust; the second explains access, stock-up, repeat purchase, and format choice.
+- If brand equity/power is out of scope, do not insert a default target-brand evaluation module. Keep any target-brand probe late and tied to an explicit business question.
+- City, life stage, and life pace may be explanatory variables for drinking scenarios and coffee journeys; do not reduce them to recruitment labels when the Proposal makes them part of the research design.
