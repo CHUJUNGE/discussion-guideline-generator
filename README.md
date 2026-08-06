@@ -2,7 +2,7 @@
 
 `discussion-guideline-generator` 是给研究员使用的 Codex skill 套件，用来把客户 brief、proposal、内部资料和 desk research，整理成可审阅、可导出的 Digital Diary（DG）讨论提纲。
 
-你不需要先把材料整理成固定格式。把项目材料发给 Codex，用自然语言说明你想做一版 DG；Codex 会先理解项目和研究问题，再完成题目设计、题型检核与题面润色，最后按统一模板生成 Word 版讨论提纲。
+你不需要先把材料整理成固定格式。把项目材料发给 Codex，用自然语言说明你想做一版 DG；Codex 会先理解项目和研究问题，再完成题目设计、题型检核与题面润色，最后按统一 Markdown 模板生成讨论提纲。需要 Word 时，再将已确认的内容转换为 Word。
 
 这套能力由三个分工明确的 skills 协作完成：
 
@@ -121,8 +121,6 @@ https://github.com/CHUJUNGE/discussion-guideline-generator
 - 核心研究问题。
 - 模块结构总览。
 - 详细题目设计。
-- 题型检核摘要。
-- 需要确认的问题。
 
 ### 2. Word 版 Digital Diary / discussion guideline
 
@@ -136,7 +134,6 @@ https://github.com/CHUJUNGE/discussion-guideline-generator
 - `访谈题` / `打卡题` 模块类型。
 - 简答、单选、多选、打分、排序、AI-bot、开场白、结束画面等题型标签。
 - 打卡事件、重复频次、单位与必填图片/视频要求。
-- 简短检核摘要和待确认事项。
 
 ## 文件架构
 
@@ -148,7 +145,7 @@ discussion-guideline-generator/
 │   ├── agents/
 │   │   └── openai.yaml
 │   ├── assets/
-│   │   └── dg-output-template.docx  # 由维护者提供的唯一强制 Word 模板
+│   │   └── dg-output-template.md    # 唯一强制的 DG 输出结构模板
 │   └── references/
 │       ├── agent-workflow.md
 │       ├── generation-logic.md

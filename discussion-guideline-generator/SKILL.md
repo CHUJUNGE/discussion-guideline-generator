@@ -80,40 +80,28 @@ Follow the complete stage contract in `references/agent-workflow.md`. Use Codex-
 
 ## Output Format
 
-For a first draft, output Chinese Markdown:
+For every researcher-facing first draft, read and follow `assets/dg-output-template.md`. Preserve its heading order, section names, module table, and module-level `引导语 / 题目 / 结束语` structure.
 
-```markdown
-# 题目设计方案
+Keep sections 1-3 concise. Put most detail in section 4. The researcher-facing final output ends after the detailed question design.
 
-## 1. 项目理解
-## 2. 核心研究问题
-## 3. 模块结构总览
-## 4. 详细题目设计
-## 5. Agent 检核摘要
-## 6. 需要确认的问题
-```
-
-Keep sections 1-3 concise. Put most detail in section 4.
-
-For each module in section 4, use:
+For each module in section 4, use the template structure and include the module type. Use `访谈题` by default; use `打卡题` only for a repeated diary task and then state its event name, frequency, and unit. Label module introductions `【开场白】` and endings `【结束画面】`; add a user-facing platform type label before every question.
 
 ```markdown
 ### 模块x：我/我的/我是/我怎么...模块名
+模块类型：访谈题
 
-引导语：
+**引导语：**
 
-题目：
+**题目：**
 
-1.
-2.
-3.
+【简答】1.
 
-结束语：
+**结束语：**
 ```
 
 Do not write “建议题目示例”, “示例题”, or “建议题量”.
 
-Do not add research purpose, design explanation, or internal logic after every question.
+Do not add research purpose, design explanation, internal logic, Wording Handoff, or `题型检核摘要` to the researcher-facing final output. Keep those details only for internal handoff or when the user explicitly asks for a review or audit trail.
 
 Respondent-facing module titles in section 4 must default to first-person "我 / 我的 / 我是 / 我怎么..." wording, such as "我的一天", "我的文具全家福", "我是怎么选笔的", or "我的下一支笔". Use research-style module names only in internal structure tables or when the client explicitly requires fixed titles.
 

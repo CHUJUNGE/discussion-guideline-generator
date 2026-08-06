@@ -150,7 +150,7 @@ After the designer stage, reasons should be shown for researcher review. Use thi
 
 After the wording skill has produced the final user-facing version, do not show reasons. Show only `【题型名】`.
 
-When uncertain, still choose the best type. In a designer/review draft, add "待确认" in the reason. In the final user-facing version, do not show uncertainty inline; put uncertainty in a separate "题型检核摘要" for the researcher.
+When uncertain, still choose the best type. In a designer/review draft, add "待确认" in the reason. In the final user-facing version, do not show uncertainty inline and do not append a separate summary.
 
 ## Decision Rules
 
@@ -192,7 +192,7 @@ Avoid long explanations. One sentence is enough.
 
 ## Risk Flags
 
-At the end, add a short "题型检核摘要" for the researcher only when there are meaningful issues:
+Identify the following risks during the review pass. Only output them as a separate audit when the user explicitly asks for a type review or audit:
 
 - too many `score` or `sort` questions;
 - too many required image/video tasks;
